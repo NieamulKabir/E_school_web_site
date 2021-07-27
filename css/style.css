@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:  #E5E5E5 ;
+}
+.header{
+    background-color: #F0FFF0;
+    width: 100%;
+}
+
+.logo_img{
+    width: 198px;
+    height: 59px;
+}
+.menu a{
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 35px;
+    color: black;
+
+}
+.menu button{
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 35px;
+   background-color: #21B573 ;
+   color: white;
+}
+
+
+
+.banner{
+    margin-bottom: 100px;
+    margin-top: 95px;
+    
+}
+.leftbar{
+    margin-bottom: 75px;
+}
+.leftbar small{
+    color: #FD511A;
+    font-size: 16px;
+}
+.leftbar h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #000000;
+}
+.leftbar span{
+    color:#21B573; ;
+}
+.leftbar p{
+    font-size: 16px;
+    
+}
+.rightbar img{
+    width: 554px;
+    height: 346px;
+    margin-bottom: 75px;
+}
+
+
+.catagoris_back{
+    background-color:  #F0FFF0;
+    width: 270px;
+    height: 270px;
+    transition: transform .5s ease-in-out;
+    border-radius: 15px;
+
+}
+.catagoris_back:hover {
+    transform: scale(1.1);
+    /* transition:  .5s ease-in-out ; */
+    background-color: white;
+    box-shadow: 5px 5px 5px 2px #d4d1d1;
+}
+.catagoris img{
+    width: 66px;
+    height: 85px;
+    margin: auto;
+    margin-top: 54px;
+    margin-left: 102px;
+}
+.catagoris_content{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.catagoris_content h5{
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
+.section_title{
+    text-align: center;
+    margin-top: 105px;
+    color: #413960;
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+.Courses_banner{
+    padding:20px 20px 0px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    
+}
+.Courses_banner img{
+    width: 331px;
+    height: 234px;
+}
+
+.courses_content{
+    margin-top: 20px ;
+   
+   
+}
+
+.courses_content h5{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+}
+.courses_content p{
+    font-size: 16px;
+    color: #413960;
+}
+.courses_content button{
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #21B573; 
+    width: 137px;
+    margin-bottom: 35px;
+}
+.course_detailes{
+    padding-bottom: 10%;
+}
+.courses_content .course_detailes span{
+    font-weight: 500;
+    font-size: 16px;
+    color: #585859;
+    margin-left: 5px;
+   
+}
+
+
+
+
+.testimonial_img img{
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+    
+}
+
+.big_footer_content{
+    
+    background-color: black;
+    color: #CDCDCD;
+    margin-top: 100px;
+}
+.footer_content h6{
+    margin-top: 55px ;
+    font-size: 16px;
+}
+
+.footer_content p{
+    font-size: 16px;
+    width: 123px;
+    height: 181px;
+
+}
+footer{
+    text-align: center;
+    color: #CDCDCD;
+   padding-bottom: 2%;
+}
